@@ -1,0 +1,19 @@
+{
+    "Hello!": "Cześć!",
+    "Error": "Błąd",
+    "Not understood": [
+        "Nie rozumiane :frowning:",
+        "Przepraszam, nie rozumie :frowning:",
+        "Co?",
+        "Słucham!",
+        "Proszę?"
+    ],
+    "Supported languages": "Obsługiwane języki",
+    "List of known commands": "Lista znanych poleceń",
+    "Welcome message": "Jestem **{0}** i jestem tutaj, aby ci pomóc.\n\nWprowadź ** `help` ** w prywatnej wiadomości dla mnie lub **`{1} help` ** w wiadomości tekstowej, aby zobaczyć wszystkie polecenia.\nMożesz także skonfigurować mnie za pomocą polecenia ** `settings <param>: <value>` **. Wprowadź polecenie ** `settings help` **, aby zobaczyć więcej informacji.",
+    "Click on emoji button for see this message by your language.": "Kliknij na emoji, aby zobaczyć tę wiadomość w swoim języku.",
+    "Bot's settings": "Ustawienia Bota",
+    "This help": "Ta pomoc",
+    "About this bot": "O bocie",
+    "Quit bot (move to offline)": "Wymkścz bota"
+}

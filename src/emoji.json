@@ -1,0 +1,7 @@
+{
+    "flag_gb": { "code": "0xE510", "char": "🇬🇧" },
+    "flag_us": { "code": "0xE50C", "char": "🇺🇸" },
+    "flag_ua": { "code": "0x01F1FA 0x01F1E6", "char": "🇺🇦" },
+    "flag_ru": { "code": "0xE512", "char": "🇷🇺" },
+    "flag_pl": { "code": "0x1F1F5 0x1F1F1", "char": "🇵🇱" }
+}

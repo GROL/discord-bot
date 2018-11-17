@@ -1,0 +1,23 @@
+{
+    "Hello!": [
+        "Hello!",
+        "Hi!"
+    ],
+    "Error": [
+        "Error",
+        "Oops, something went wrong",
+        "Wait what?"  
+    ],
+    "Not understood": [
+        "Not understood :frowning:",
+        "Don`t get it"
+    ],
+    "List of known commands": "List of known commands",
+    "Supported languages": "Supported languages",
+    "Welcome message": "I'm **{0}** and I can help you.\n\nEnter **`help`** in private massage for me or **`{1} help`** in text channel for see all available commands.\nAlso, you can configure me with command **`settings <param>:<value>`**. Enter command **`settings help`** for see more details.",
+    "Click on emoji button for see this message by your language.": "Click on emoji button for see this message by your language.",
+    "Bot's settings": "Bot's settings",
+    "This help": "This help",
+    "About this bot": "About this bot",
+    "Quit bot (move to offline)": "Quit bot (move to offline)"
+}
